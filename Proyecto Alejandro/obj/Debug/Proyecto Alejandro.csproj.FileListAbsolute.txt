@@ -1,0 +1,16 @@
+C:\Proyecto Alejandro\bin\Debug\Proyecto Alejandro.exe.config
+C:\Proyecto Alejandro\bin\Debug\Proyecto Alejandro.exe
+C:\Proyecto Alejandro\bin\Debug\Proyecto Alejandro.pdb
+C:\Proyecto Alejandro\obj\Debug\Proyecto Alejandro.csproj.AssemblyReference.cache
+C:\Proyecto Alejandro\obj\Debug\Proyecto Alejandro.csproj.SuggestedBindingRedirects.cache
+C:\Proyecto Alejandro\obj\Debug\Proyecto_Alejandro.Properties.Resources.resources
+C:\Proyecto Alejandro\obj\Debug\Proyecto Alejandro.csproj.GenerateResource.cache
+C:\Proyecto Alejandro\obj\Debug\Proyecto Alejandro.csproj.CoreCompileInputs.cache
+C:\Proyecto Alejandro\obj\Debug\Proyecto Alejandro.exe
+C:\Proyecto Alejandro\obj\Debug\Proyecto Alejandro.pdb
+C:\Proyecto Alejandro\obj\Debug\Proyecto_Alejandro.Views.Main.resources
+C:\Proyecto Alejandro\obj\Debug\Proyecto_Alejandro.Views.BalanceGeneralCrear.resources
+C:\Proyecto Alejandro\obj\Debug\Proyecto_Alejandro.InicioSesion.resources
+C:\Proyecto Alejandro\obj\Debug\Proyecto_Alejandro.Views.BalanceGeneralVer.resources
+C:\Proyecto Alejandro\obj\Debug\Proyecto_Alejandro.Views.EstadoResultadoCrear.resources
+C:\Proyecto Alejandro\obj\Debug\Proyecto_Alejandro.Views.EstadoResultadoVer.resources
